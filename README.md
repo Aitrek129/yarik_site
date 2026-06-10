@@ -1,4 +1,3 @@
-This is my first project based on Guthub!
-On this site you can find some iso based on Gnu/linux
+This is my first serius project based on Guthub!
+There taked place web site, where you can see ways to learn luxembourgish!
 http://yaroslavik.ru
-please give some your opinion about this
